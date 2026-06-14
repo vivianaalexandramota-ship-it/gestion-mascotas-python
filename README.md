@@ -1,6 +1,6 @@
 # Sistema de Gestión de Mascotas
 
-**Estudiante:** Geovanny Velasco Paredes
+**Estudiante:** Viviana Mota
 
 ## Descripción del proyecto
 
